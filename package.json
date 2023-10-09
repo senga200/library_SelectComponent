@@ -1,0 +1,22 @@
+{
+  "name": "react-select-comp-senga",
+  "version": "1.0.3",
+  "description": "react select dropdown component",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": ["react", "select", "dropdown", "component"],
+  "author": "senga",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.0",
+    "@babel/preset-env": "^7.22.20",
+    "@babel/preset-react": "^7.22.15",
+    "@rollup/plugin-babel": "^6.0.3",
+    "autoprefixer": "^10.4.16",
+    "rollup": "^2.63.0",
+    "rollup-plugin-styles": "^4.0.0"
+  }
+}
